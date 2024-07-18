@@ -38,7 +38,7 @@ Route::middleware('auth', 'user-access:admin')->name('admin.')->group(function (
 
   Route::middleware('auth', 'user-access:customer')->name('customer.')->group(function () {
     Route::resource('/customer/Keluhan', KeluhanController::class);
-    Route::get('/mahasiswa/home', [\App\Http\Controllers\HomeController::class, 'customerHome'])->name('customer.home');
+    Route::get('/customer/home', [\App\Http\Controllers\HomeController::class, 'customerHome'])->name('customer.home');
     Route::delete('/logout', [\App\Http\Controllers\Auth\LoginController::class, 'logout'])->name('logout');
   });
 
