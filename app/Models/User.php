@@ -17,9 +17,10 @@ class User extends Authenticatable
      * @var array<int, string>
      */
     protected $fillable = [
-        'name',
+        'username',
         'email',
         'password',
+        'level',
     ];
 
     /**
@@ -43,5 +44,14 @@ class User extends Authenticatable
             'email_verified_at' => 'datetime',
             'password' => 'hashed',
         ];
+    }
+
+    // //relationship
+    public function dataTambahanDosen(){
+        return $this->hasOne(Dosen::class,'user_id')->orderby('nidn','asc');
+    }
+        // relationship
+    public function dataTambahanMahasiswa(){
+        return $this->hasOne(Mahasiswa::class,'user_id')->orderby('nim','asc');
     }
 }
