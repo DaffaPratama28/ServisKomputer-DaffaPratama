@@ -1,6 +1,20 @@
 <img src="https://github.com/DaffaPratama28/ServisKomputer-DaffaPratama/assets/169805841/67b5e0b1-65aa-4320-a763-a11936678d3d" alt="Pegawai">
 <img src="https://github.com/DaffaPratama28/ServisKomputer-DaffaPratama/assets/169805841/d8f68527-30a7-4397-b05f-90786ed588f4" alt="Customer">
 <img src="https://github.com/DaffaPratama28/ServisKomputer-DaffaPratama/assets/169805841/90477f3c-239c-4716-8662-6648719dbb14" alt="Komputer">
+![login_page](https://github.com/user-attachments/assets/b0fe28e5-1dab-4a12-ab26-df4efc49fee0)
+![home](https://github.com/user-attachments/assets/f0785ff2-0522-4ba0-80bf-47b9278afd85)
+![admin_supplier](https://github.com/user-attachments/assets/90a75a16-296d-480f-a43c-88e21b8cf726)
+![admin_pengguna](https://github.com/user-attachments/assets/26794a67-9ed0-4642-a9ca-75d8b8d5cb9a)
+![admin_pegawai](https://github.com/user-attachments/assets/915e32cc-6b74-4c3b-a029-f6e91c928448)
+![admin_komputer](https://github.com/user-attachments/assets/4d25a282-891f-496d-b075-4cad20d88fb2)
+![admin_keluhan](https://github.com/user-attachments/assets/2632f8da-c56c-4d7d-bca6-8858389bd16c)
+![admin_home](https://github.com/user-attachments/assets/705297d6-0fee-4db2-b54f-16438f28ca9a)
+![admin_customer](https://github.com/user-attachments/assets/52e46ce0-1f25-446f-93cd-cfa6e8be6923)
+![admin_barang](https://github.com/user-attachments/assets/8fcd6448-0480-463d-b087-e80d1832a964)
+![register_page](https://github.com/user-attachments/assets/dc15e0ae-2efb-41b8-8f27-9614f56e9737)
+![pegawai_komputer](https://github.com/user-attachments/assets/a7c4833c-b144-4362-acbc-4908c74e0ce7)
+![pegawai_home](https://github.com/user-attachments/assets/4009a201-a8ad-4a8d-b25e-e8469633be7a)
+![pegawai_barang](https://github.com/user-attachments/assets/281e0349-58b2-42c9-9316-ab7ebdf34344)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
