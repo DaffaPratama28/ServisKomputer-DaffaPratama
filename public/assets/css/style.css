@@ -466,7 +466,7 @@ a img.aligncenter {
 
 
 .top-navbar .bg-light{
-	background: #4c5a7d !important;
+	background: #446aca !important;
 }
 
 .top-navbar .navbar-light .navbar-nav .nav-link{
@@ -2845,7 +2845,8 @@ body.host_version .first-section .effect-1.slide-btn::after{
 /**-------------- inner Page css ---------------**/
 
 .all-title-box{
-	background: url("/assets/images/banner.jpg") no-repeat;
+    position: relative;
+	background: url("/assets/images/close-up-hands-working-project.jpg") no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -2853,6 +2854,16 @@ body.host_version .first-section .effect-1.slide-btn::after{
 	background-position: center;
 	min-height: 300px;
 }
+
+.all-title-box::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Warna hitam dengan opacity 50% */
+  }
 
 .all-title-box h1{
 	color: #fff;
